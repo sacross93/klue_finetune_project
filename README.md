@@ -103,7 +103,3 @@ jupyter notebook
 ## 상세 보고서
 
 전체 과제 수행 과정 및 의사결정 근거는 [REPORT.md](REPORT.md)를 참고하세요.
-
-## 라이선스
-
-본 프로젝트는 이지케어텍 AI Engineer 채용 사전과제로 작성되었습니다.
